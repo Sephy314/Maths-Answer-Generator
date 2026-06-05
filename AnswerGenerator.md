@@ -93,5 +93,5 @@ Example:
 ## FINAL OUTPUT RULE:
 You MUST return ONLY the generated PDF.
 No HTML output should be shown to the user.
-
+Return ONLY HTML that fits exactly one A4 page.
 
