@@ -90,5 +90,8 @@ Example:
 </html>
 ---
 ## FINAL OUTPUT RULE:
-- Return ONLY HTML
-- Must be directly convertible to PDF (Puppeteer / Chrome print)
+## FINAL OUTPUT RULE:
+You MUST return ONLY the generated PDF.
+No HTML output should be shown to the user.
+
+
